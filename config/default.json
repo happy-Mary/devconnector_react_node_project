@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb+srv://happyMary:<password>@devconnector.cdl7o.mongodb.net/?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://happyMary:pass@devconnector.cdl7o.mongodb.net/?retryWrites=true&w=majority"
 }
