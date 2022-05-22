@@ -1,0 +1,34 @@
+{
+  "name": "devconnector_react_node_project",
+  "version": "1.0.0",
+  "description": "Social Network for Dev",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happy-Mary/devconnector_react_node_project.git"
+  },
+  "author": "Maryia Shklouskaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happy-Mary/devconnector_react_node_project/issues"
+  },
+  "homepage": "https://github.com/happy-Mary/devconnector_react_node_project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.0",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.4",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^7.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
